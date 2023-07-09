@@ -11,8 +11,8 @@ The Shuttle App is a ride-sharing platform that aims to provide convenient and e
 ## Technology :
 
 1. Frontend Development : Flutter
-2. Backend Development : Firebase
-3. NoSQL Database : Mongo DB
+2. Backend : Firebase
+3. API : Google Maps API, MapBox API
 4. Design and Ideation : Figma
 
 ## Major Features :
